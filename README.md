@@ -1,4 +1,4 @@
-# Enterprise RAG Assistant
+# Enterprise RAG Assist
 
 A scalable Enterprise Retrieval-Augmented Generation (RAG) assistant built using FastAPI, Uvicorn, and Python.
 
